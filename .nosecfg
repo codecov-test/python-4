@@ -1,3 +1,4 @@
 [nosetests]
+with-coverage=1
 rednose=1
 
